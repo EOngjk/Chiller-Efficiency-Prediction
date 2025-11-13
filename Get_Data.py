@@ -5,7 +5,6 @@ import matplotlib.pyplot as plt
 import seaborn as sns
 import datetime 
 import seaborn as sns
-import statsmodels.api as sm
 import warnings
 warnings.filterwarnings('ignore')
 import requests
@@ -149,4 +148,5 @@ def load_4_days_forecast_data():
     forecast_df = pd.DataFrame(extracted_data)
     forecast_df['record_timestamp'] = pd.to_datetime(forecast_df['record_timestamp'])
     # Display the DataFrame
+
     return forecast_df
