@@ -2,7 +2,6 @@ import numpy as np
 import pandas as pd
 import streamlit as st
 import seaborn as sns
-import statsmodels.api as sm
 import warnings
 import plotly.graph_objs as go
 import plotly.express as px
@@ -366,4 +365,5 @@ def show_simulation_page():
                         st.markdown(f"<h5><strong>Average Power Used</strong>: {least_cost_saving['avg_power']:.2f} kW</h5>", unsafe_allow_html=True)
 
                         # st.metric(label=f"Least Cost Saving Strategy ({month} {year_input})", value=f"{least_cost_saving['Main_Strategy']}: {least_cost_saving['Details']}")
+
                         # st.metric(label=f"Average Power Used", value=f"{least_cost_saving['avg_power']:.2f} kW")
