@@ -4,7 +4,6 @@ import pandas as pd
 import matplotlib.pyplot as plt
 import time
 import seaborn as sns
-import statsmodels.api as sm
 import warnings
 import pickle
 import plotly.graph_objs as go
@@ -908,3 +907,4 @@ def show_predict_page():
                 with col10:
                     st.markdown(f"<h5 style='color: red;'><strong>Least Cost Saving Strategy</strong>: {least_cost_saving['Main_Strategy']}: {least_cost_saving['Details']}</h5>", unsafe_allow_html=True)
                     st.markdown(f"<h5><strong>Average Power Used</strong>: {least_cost_saving['avg_power']:.2f} kW</h5>", unsafe_allow_html=True)
+
