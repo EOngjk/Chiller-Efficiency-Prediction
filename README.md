@@ -8,7 +8,7 @@ This project enhances building energy management through predictive modelling of
 
 **Key Result:** The simulation reveals a potential energy savings of **20.95%**, highlighting the impact of predictive analytics in building energy management.
 
-> **Award:** This project was awarded the **EDPS Innovative Scholarship Award 2024–25** at Hong Kong Baptist University.
+**Award:** This project was awarded the **EDPS Innovative Scholarship Award 2024–25** (HK$20,000).
 
 ---
 
