@@ -3,7 +3,6 @@
 ![Python](https://img.shields.io/badge/Python-3.10+-3776AB?logo=python&logoColor=white)
 ![Streamlit](https://img.shields.io/badge/Streamlit-Dashboard-FF4B4B?logo=streamlit&logoColor=white)
 ![CatBoost](https://img.shields.io/badge/CatBoost-ML-FFCC00)
-![License](https://img.shields.io/badge/License-MIT-green)
 
 This project enhances building energy management through predictive modelling of air-cooled chiller efficiency at the **Tai Lung Veterinary Laboratory** in Hong Kong. Machine learning models predict the **Coefficient of Performance (COP)** and **cooling load** based on environmental and temporal inputs, enabling optimised chiller operation strategies that reduce energy consumption and carbon emissions.
 
