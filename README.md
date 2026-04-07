@@ -48,18 +48,38 @@ This project enhances building energy management through predictive modelling of
 - View strategy breakdowns (one-chiller, two-chiller, three-chiller usage)
 - Correlation heatmaps across key features (COP, power supply, cooling output, water flow, temperature, humidity)
 - Seasonal trends for cooling load, power usage, and COP by hour and month
+![Explore Page](screenshots/explore_page_01.png)
+![Explore Page](screenshots/explore_page_02.png)
+![Explore Page](screenshots/explore_page_03.png)
+![Explore Page](screenshots/explore_page_04.png)
+![Explore Page](screenshots/explore_page_05.png)
+![Explore Page](screenshots/explore_page_06.png)
+![Explore Page](screenshots/explore_page_07.png)
 
 ### Predict 🔮
 - Input weather data manually, use real-time API data, or load a 4-day hourly forecast
 - Predict cooling load and optimal chiller operation strategy
 - View predicted COP and power breakdown per chiller
 - Strategy summary showing most/least used and most/least cost-saving strategies
+![Predict Page](screenshots/predict_page_01.png)
+![Predict Page](screenshots/predict_page_02.png)
+![Predict Page](screenshots/predict_page_03.png)
+![Predict Page](screenshots/predict_page_04.png)
+![Predict Page](screenshots/predict_page_05.png)
+![Predict Page](screenshots/predict_page_06.png)
+![Predict Page](screenshots/predict_page_07.png)
 
 ### Simulation 🕹️
 - Simulate optimised chiller operation for the whole period or a selected month
 - Compare actual vs. predicted power consumption with interactive line charts
 - View power savings (kW), percentage savings, and estimated cost savings (HKD)
 - Strategy summary with detailed breakdowns
+![Simulation Page](screenshots/simulation_page_01.png)
+![Simulation Page](screenshots/simulation_page_02.png)
+![Simulation Page](screenshots/simulation_page_03.png)
+![Simulation Page](screenshots/simulation_page_04.png)
+![Simulation Page](screenshots/simulation_page_05.png)
+![Simulation Page](screenshots/simulation_page_06.png)
 
 ---
 
