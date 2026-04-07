@@ -107,6 +107,28 @@ This project enhances building energy management through predictive modelling of
 ├── hkbu.png                            # HKBU logo
 ├── System Setup.pdf                    # System setup documentation
 ├── requirements.txt                    # Python dependencies
+│
+screenshots/                            # Dashboard Screenshots
+├── explore_page_01.png
+├── explore_page_02.png
+├── explore_page_03.png
+├── explore_page_04.png
+├── explore_page_05.png
+├── explore_page_06.png
+├── explore_page_07.png
+├── predict_page_01.png
+├── predict_page_02.png
+├── predict_page_03.png
+├── predict_page_04.png
+├── predict_page_05.png
+├── predict_page_06.png
+├── predict_page_07.png
+├── simulation_page_01.png
+├── simulation_page_02.png
+├── simulation_page_03.png
+├── simulation_page_04.png
+├── simulation_page_05.png
+├── simulation_page_06.png
 └── README.md
 ```
 
@@ -114,7 +136,7 @@ This project enhances building energy management through predictive modelling of
 
 ## Data
 
-The operational data was collected from **three air-cooled electric chillers** at the Tai Lung Veterinary Laboratory, covering the period from **July 2022 to March 2024** at 10-minute intervals.
+The operational data was collected from **three air-cooled electric chillers** at the Tai Lung Veterinary Laboratory, covering the period from **July 2022 to March 2024** at 15-minute intervals.
 
 ### Key Features
 
@@ -216,15 +238,15 @@ The dashboard will open in your browser at `http://localhost:8501`. Use the side
 
 ## References
 
-- Ho, K. K. W., & Yu, F. W. (2021). [Review of the advances in air-cooled chillers](https://www.sciencedirect.com/science/article/pii/S036054422032483X). *Energy*, 214.
-- Yu, F. W., Ho, W. T., Chan, K. T., & Sit, R. K. Y. (2017). [Evaluation of energy performance of chiller system](https://www.sciencedirect.com/science/article/abs/pii/S0378778816309860). *Energy and Buildings*, 145.
+- Ho, W. T., & Yu, F. W. (2021). [Improved model and optimization for the energy performance of chiller system with diverse component staging](https://www.sciencedirect.com/science/article/abs/pii/S036054422032483X). *Energy*, 217, 119376. https://doi.org/10.1016/j.energy.2020.119376
+- Yu, F. W., Ho, W. T., Chan, K. T., & Sit, R. K. Y. (2017). [Critique of operating variables importance on chiller energy performance using random forest](https://www.sciencedirect.com/science/article/abs/pii/S0378778816309860). *Energy and Buildings*, 139, 653–664. https://doi.org/10.1016/j.enbuild.2017.01.060
 - [Hong Kong Observatory — Climate of Hong Kong](https://www.hko.gov.hk/en/cis/climateHK.htm)
 
 ---
 
 ## Author
 
-**Eric ONG Jun Kye**
+**Eric, ONG Jun Kye**
 BSc (Hons) Business Computing and Data Analytics, Hong Kong Baptist University (Class of 2025)
 
 Supervised by: Prof. TAI, Samson Kin Hon
@@ -234,3 +256,5 @@ Supervised by: Prof. TAI, Samson Kin Hon
 ## Links
 
 - [FYP Poster & Demonstration](https://fyp.comp.hkbu.edu.hk/bcda/poster/2024/poster_internal.php?id=785)
+
+
